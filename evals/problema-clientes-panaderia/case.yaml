@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: problema-clientes-panaderia
+expected_outcome: |
+  An open problem with no context: the reply warns that the generic list would fit any bakery, asks for the user's real situation and what they tried, points to where to see how others solved it, and waits.

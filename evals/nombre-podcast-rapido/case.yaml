@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: nombre-podcast-rapido
+expected_outcome: |
+  The user asked for speed: the reply gives names directly, warns they stay close to the average without more context, and offers what would make them theirs.

@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: bucle-eslogan
+expected_outcome: |
+  Loop handling: instead of another variation, the reply names the loop and what repeats, asks what exactly is wrong, asks for new input and offers a brief for a fresh chat.

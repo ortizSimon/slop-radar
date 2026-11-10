@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: logo-panaderia
+expected_outcome: |
+  The reply names the concrete default it would give, teaches where to find references for this exact kind of piece, asks for 2 or 3 references and what the user likes in each, and waits instead of building.
